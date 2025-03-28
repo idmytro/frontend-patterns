@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import Parent from './components/Parent.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <Parent />
 </template>
