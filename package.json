@@ -1,9 +1,8 @@
 {
-  "name": "bun-mono-template",
-  "version": "0.1.0",
+  "name": "frontend-patterns",
+  "version": "2025.3.28",
   "private": true,
   "workspaces": [
-    "apps/*",
-    "packages/*"
+    "apps/*"
   ]
 }
