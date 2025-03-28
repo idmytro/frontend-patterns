@@ -3,6 +3,6 @@
   "version": "2025.3.28",
   "private": true,
   "workspaces": [
-    "apps/*"
+    "vue3/*"
   ]
 }
