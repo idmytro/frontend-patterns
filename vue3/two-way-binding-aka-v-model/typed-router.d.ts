@@ -22,5 +22,6 @@ declare module 'vue-router/auto-routes' {
     '/docs/[lang]/': RouteRecordInfo<'/docs/[lang]/', '/docs/:lang', { lang: ParamValue<true> }, { lang: ParamValue<false> }>,
     '/docs/[lang]/[...pathMatch]': RouteRecordInfo<'/docs/[lang]/[...pathMatch]', '/docs/:lang/:pathMatch(.*)', { lang: ParamValue<true>, pathMatch: ParamValue<true> }, { lang: ParamValue<false>, pathMatch: ParamValue<false> }>,
     '/legacy': RouteRecordInfo<'/legacy', '/legacy', Record<never, never>, Record<never, never>>,
+    '/simple': RouteRecordInfo<'/simple', '/simple', Record<never, never>, Record<never, never>>,
   }
 }
