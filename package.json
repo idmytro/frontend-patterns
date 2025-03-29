@@ -3,6 +3,7 @@
   "version": "2025.3.28",
   "private": true,
   "workspaces": [
+    "svelte4/*",
     "vue3/*"
   ]
 }
