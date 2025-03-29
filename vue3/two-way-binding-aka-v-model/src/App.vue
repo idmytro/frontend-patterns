@@ -6,6 +6,7 @@
     <nav>
       <RouterLink to="/">Vue >=3.4</RouterLink>
       <RouterLink to="/legacy">Vue <3.4</RouterLink>
+      <RouterLink to="/simple">Simple</RouterLink>
       <!-- <RouterLink to="/docs/en">Docs</RouterLink> -->
       <!-- <RouterLink to="/docs/en/not-found">Not found page</RouterLink> -->
     </nav>
