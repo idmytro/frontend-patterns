@@ -16,7 +16,8 @@
       <a href="/bind-input" aria-current={currentPath === '/bind-input' ? 'page' : undefined}>Bind input</a>
       <a href="/bind-radio" aria-current={currentPath === '/bind-radio' ? 'page' : undefined}>Bind radio</a>
       <a href="/bind-radio-hash" aria-current={currentPath === '/bind-radio-hash' ? 'page' : undefined}>Bind radio hash</a>
-      <a href="/change-hash-on-page" aria-current={currentPath === '/change-hash-on-page' ? 'page' : undefined}>Hash on page</a>
+      <a href="/hash-on-page" aria-current={currentPath === '/hash-on-page' ? 'page' : undefined}>Hash on page</a>
+      <a href="/hash-read-on-ui" aria-current={currentPath === '/hash-read-on-ui' ? 'page' : undefined}>Hash read on ui</a>
     </nav>
   </header>
   <slot />
