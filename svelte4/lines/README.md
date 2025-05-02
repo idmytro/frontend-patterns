@@ -1,7 +1,1 @@
-```bash
-npx degit idmytro/svelte-starters/4-no-prettier-eslint-plus-uno-classic--ts .
-```
-
-```bash
-npx degit idmytro/svelte-starters/4-no-prettier-eslint-plus-uno-classic--ts app
-```
+https://stackoverflow.com/questions/66442844/how-to-use-leaderline-with-svelte
